@@ -1,0 +1,16 @@
+E:\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete

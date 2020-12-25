@@ -1,0 +1,11 @@
+E:\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+F:\ISMT College\2nd Semester\Event Driven Programming\EDP Project\DepartmentalStoreApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
